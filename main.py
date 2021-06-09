@@ -1,5 +1,6 @@
 i = 1
 while i is not [19, 22]:
+    print("-------------------------------------")
     if i == 1:
         print("Te vagy az iskola rosszfiúja. Késve érkezel a suli elé, még elszívod a cigidet, aztán… \n"
               " 2. elnyomod a csikket az igazgatónő bringájának kerekébe. \n"
